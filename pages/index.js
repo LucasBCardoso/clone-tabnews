@@ -18,7 +18,7 @@ function Home() {
         }}
       />
       <p style={{ marginTop: '20px', fontSize: '18px' }}>
-        Nunca vou te abandonar.
+        Nunca vou desistir de você.
       </p>
     </div>
   );
