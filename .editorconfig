@@ -1,0 +1,6 @@
+root = true
+
+#js usa 2 espaços de indentação
+[*]
+indent_style = space
+indent_size = 2
